@@ -6,7 +6,7 @@ Prototype of the robots TARS, from the movie Interstellar. Built using Raspberry
 
 **Software/Hardware Used:** `Raspberry Pi`,  `Python`, `VNC`, `Tinkercad`
 
-## File Description
+## Files Description
 
 `DESIGN-LINKS.txt`: Links to the initial design of the robot created on a CAD software.\
 `TARS Instructions.docx`: Instructions on how to setup and use prototype.\
